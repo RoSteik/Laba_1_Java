@@ -9,6 +9,7 @@ public class Main {
         System.out.println(park1 + "\n");
         System.out.println(park2 + "\n");
         System.out.println(park3 + "\n");
+        System.out.println();
         System.out.println(Park.printSomeStaticField());
 
     }
